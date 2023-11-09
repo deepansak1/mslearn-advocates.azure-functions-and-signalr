@@ -1,9 +1,9 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "<STORAGE_CONNECTION_STRING>",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=cloudshell675078094;AccountKey=j9HGBZlFzeUW7o5SybsrDntgmcGFogHdj3tSjoKPlAzNLFAcH/VzOGSiqQKzp2lf6MuheGQDWWFT+ASt3ko4xA==;BlobEndpoint=https://cloudshell675078094.blob.core.windows.net/;FileEndpoint=https://cloudshell675078094.file.core.windows.net/;QueueEndpoint=https://cloudshell675078094.queue.core.windows.net/;TableEndpoint=https://cloudshell675078094.table.core.windows.net/",
     "AzureCosmosDBConnectionString": "https://msl-sigr-cosmos-df50941c1b.documents.azure.com:443/;AccountKey=smAbZfi68aRVyEOK3LF4UNwyO6HMpckP5BzZdTzXqY4FE845NLgk7wYtnSXuK0shH5cEt3pyGwTAACDbBS5ITw==",
-    "AzureCosmosDBMasterKey": "<COSMOSDB_MASTER_KEY>",
+    "AzureCosmosDBMasterKey": "smAbZfi68aRVyEOK3LF4UNwyO6HMpckP5BzZdTzXqY4FE845NLgk7wYtnSXuK0shH5cEt3pyGwTAACDbBS5ITw==",
     "AzureSignalRConnectionString": "<SIGNALR_CONNECTION_STRING>",
     "FUNCTIONS_WORKER_RUNTIME": "node"
   },
