@@ -2,7 +2,7 @@
   "IsEncrypted": false,
   "Values": {
     "AzureWebJobsStorage": "<STORAGE_CONNECTION_STRING>",
-    "AzureCosmosDBConnectionString": "<COSMOSDB_CONNECTION_STRING>",
+    "AzureCosmosDBConnectionString": "https://msl-sigr-cosmos-df50941c1b.documents.azure.com:443/;AccountKey=smAbZfi68aRVyEOK3LF4UNwyO6HMpckP5BzZdTzXqY4FE845NLgk7wYtnSXuK0shH5cEt3pyGwTAACDbBS5ITw==",
     "AzureCosmosDBMasterKey": "<COSMOSDB_MASTER_KEY>",
     "AzureSignalRConnectionString": "<SIGNALR_CONNECTION_STRING>",
     "FUNCTIONS_WORKER_RUNTIME": "node"
